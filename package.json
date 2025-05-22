@@ -1,0 +1,25 @@
+{
+  "name": "aulan24cd210525",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmlmarcelo/AulaN24CD210525.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmlmarcelo/AulaN24CD210525/issues"
+  },
+  "homepage": "https://github.com/mmlmarcelo/AulaN24CD210525#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
